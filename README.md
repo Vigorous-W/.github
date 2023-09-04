@@ -1,2 +1,3 @@
-# .github
-Used for public organization's README
+# Vigorous W
+
+Company's Github organization
